@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Started]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched success]]>
+    </line>
+    <line>
+      <![CDATA[Enter the URL]]>
+    </line>
+    <line>
+      <![CDATA[Got The title from web]]>
+    </line>
+    <line>
+      <![CDATA[Verification is started]]>
+    </line>
+    <line>
+      <![CDATA[Verification Success]]>
+    </line>
+    <line>
+      <![CDATA[Test cases is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Test Started]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched success]]>
+    </line>
+    <line>
+      <![CDATA[Enter the URL]]>
+    </line>
+    <line>
+      <![CDATA[Got The title from web]]>
+    </line>
+    <line>
+      <![CDATA[Verification is started]]>
+    </line>
+    <line>
+      <![CDATA[Verification Success]]>
+    </line>
+    <line>
+      <![CDATA[Test cases is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Close the browser]]>
+    </line>
+    <line>
+      <![CDATA[Test Started]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched success]]>
+    </line>
+    <line>
+      <![CDATA[Enter the URL]]>
+    </line>
+    <line>
+      <![CDATA[Got The title from web]]>
+    </line>
+    <line>
+      <![CDATA[Verification is started]]>
+    </line>
+    <line>
+      <![CDATA[Verification Success]]>
+    </line>
+    <line>
+      <![CDATA[Test cases is Pass]]>
+    </line>
+    <line>
+      <![CDATA[Close the browser]]>
+    </line>
+  </reporter-output>
+  <suite name="Google-Suite" duration-ms="39392" started-at="2020-02-24T07:53:34Z" finished-at="2020-02-24T07:54:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39392" started-at="2020-02-24T07:53:34Z" finished-at="2020-02-24T07:54:13Z">
+      <class name="login.loginpage">
+        <test-method status="PASS" signature="f()[pri:0, instance:login.loginpage@51b7e5df]" name="f" duration-ms="14601" started-at="2020-02-24T07:53:34Z" finished-at="2020-02-24T07:53:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started]]>
+            </line>
+            <line>
+              <![CDATA[Browser launched success]]>
+            </line>
+            <line>
+              <![CDATA[Enter the URL]]>
+            </line>
+            <line>
+              <![CDATA[Got The title from web]]>
+            </line>
+            <line>
+              <![CDATA[Verification is started]]>
+            </line>
+            <line>
+              <![CDATA[Verification Success]]>
+            </line>
+            <line>
+              <![CDATA[Test cases is Pass]]>
+            </line>
+            <line>
+              <![CDATA[Close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f()[pri:0, instance:login.loginpage@51b7e5df]" name="f" duration-ms="11042" started-at="2020-02-24T07:53:49Z" finished-at="2020-02-24T07:54:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started]]>
+            </line>
+            <line>
+              <![CDATA[Browser launched success]]>
+            </line>
+            <line>
+              <![CDATA[Enter the URL]]>
+            </line>
+            <line>
+              <![CDATA[Got The title from web]]>
+            </line>
+            <line>
+              <![CDATA[Verification is started]]>
+            </line>
+            <line>
+              <![CDATA[Verification Success]]>
+            </line>
+            <line>
+              <![CDATA[Test cases is Pass]]>
+            </line>
+            <line>
+              <![CDATA[Close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f()[pri:0, instance:login.loginpage@51b7e5df]" name="f" duration-ms="13596" started-at="2020-02-24T07:54:00Z" finished-at="2020-02-24T07:54:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started]]>
+            </line>
+            <line>
+              <![CDATA[Browser launched success]]>
+            </line>
+            <line>
+              <![CDATA[Enter the URL]]>
+            </line>
+            <line>
+              <![CDATA[Got The title from web]]>
+            </line>
+            <line>
+              <![CDATA[Verification is started]]>
+            </line>
+            <line>
+              <![CDATA[Verification Success]]>
+            </line>
+            <line>
+              <![CDATA[Test cases is Pass]]>
+            </line>
+            <line>
+              <![CDATA[Close the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- login.loginpage -->
+    </test> <!-- Test -->
+  </suite> <!-- Google-Suite -->
+</testng-results>
